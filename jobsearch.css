@@ -1,0 +1,222 @@
+.body {
+    margin-left: 25px;
+    margin-top: 150px;
+    font-family: 'rubik';
+   
+   }
+   .h1tag {
+     font-size: 33px;
+      color: rgb(22, 22, 22);
+     
+   }
+   .h2tag {
+   color: #3c3c3c; 
+   margin-top: -15px;
+   font-size: 18px;
+   line-height: 1.7;
+   }
+   .dropdoentext {
+     color: #999999;
+     font-size: 12px;
+     margin-bottom: -8px;
+     font-family: 'roboto';
+     font-weight: 500;
+   }
+   .sub {
+     color: #17171d;
+     font-size: 14px;
+     font-weight: 400;
+     margin-left: 20px;
+   }
+   
+   .main {
+     margin-top: 40px;
+     font-size: 14px;
+   }
+   
+   .button {
+     margin-top: 10px;
+   
+   }
+   
+   .nav {
+     margin-left: 180px; font-size: 16px; color: #2f2f2f; margin-right: 180px;
+     margin-top: -10px;
+   }
+   
+   .dropdoen .p-dropdown-label{
+    font-size: 14px;
+    color: black;
+    font-weight: 500;
+    font-family: 'Rubik';
+   }
+   .dropdoen .p-dropdown {
+     border: none;
+     color: black;
+   }
+   
+   .img{
+     display: block;
+     margin-left: 5%;
+     margin-right: auto;
+   }
+   
+   .inputbox{
+     margin-top: 30px;
+   }
+   
+   .bg{
+     /* background-color: #f9fcff; */
+     height: 100%;
+   }
+   
+   .foter{
+     background-color: #181E2A;
+     height: 290px;
+     font-size: 14px;
+     color: white;
+     font-family: 'rubik';
+     margin-top: 50px;
+     margin-left: "210px"
+   }
+   
+   .line{
+     width: 100%;
+     border-top: 1px solid rgb(214, 214, 214);
+   }
+   
+   .icon {
+     margin-right: 10px;
+   }
+   
+   .sub2 {
+     font-size: 19px;
+     line-height: 1.7;
+     font-weight: 400;
+   }
+   
+   
+   .p-inputgroup .p-inputtext{
+     width: 500px;
+   }
+   
+   .button .p-button-label{
+     font-weight: 400;
+   }
+   
+   .nav .p-menuitem-text {
+     font-weight: 400;
+   }
+
+   .nav .p-menubar{
+     border: none;
+   
+   }
+   
+   .nav .p-menuitem{
+     margin-left: -5px;
+     font-family: 'rubik';
+
+
+   }
+   
+   .navbar {
+     background-image: url("1.jpg");
+     height: 400px;
+   }
+   
+   .navbar .p-menubar{
+    background-color: #1e1eb100 !important;
+   }
+   
+   .landingtext{
+     text-align: center;
+     
+     margin-top: 175px;
+     font-weight: 300;
+     font-family: 'rubik';
+   }
+   
+   .drowpdown2 .p-dropdown{
+     border: none;
+     background-color: #f0f6fe;
+      padding-left: 5px;
+      padding-top: 5px;
+      padding-right: 5px;
+      padding-bottom: 5px;
+      border-radius: 10px;
+      width: 170px;
+      height: 50px;
+   }
+   
+   .drowpdown2 .p-dropdown-label{
+   font-size: 14px;
+   color: #6c757d;
+   font-weight: 400;
+   font-family: 'rubik';
+   }
+   
+   .lower-secc{
+     margin-top: 50px;
+   }
+   
+   .cardimg{
+     box-shadow: 6px 6px 40px #acc3e4;
+     border-radius: 10px;
+     margin-left: 20px;
+     margin-top: 20px;
+   }
+   
+   .cardfooter .p-button{
+     padding-left: 15px;
+     padding-top: 5px;
+     padding-right: 15px;
+     padding-bottom: 5px;
+     font-family: 'rubik';
+   }
+   
+   .cardfooter .p-button-label{
+   font-weight: 500;
+   font-family: 'rubik';
+   }
+
+   .cardbuttontext .p-button-label{
+     font-weight: 700;
+     margin-top: -8px;
+   }
+   
+   .p-card-title{
+     color: #17171d;
+     font-family: 'rubik';
+     margin-top: -180px;
+     margin-left: 200px;
+     font-size: 19px !important;
+   }
+   
+   .p-card-subtitle{
+     color: #17171d;
+     font-family: 'rubik' !important;
+     margin-left: 200px;
+     font-size: 15px !important;
+   }
+   
+   .p-card-content{
+     margin-left: 200px;
+     font-family: 'rubik';
+     font-weight: 500;
+     color: #1967d2;
+   }
+.p-card-footer{
+  margin-top: -140px !important;
+  margin-left: 620px !important;
+
+}
+
+.p-card {
+  height: 160px;
+}
+
+.p-menuitem-text a{
+  text-decoration: none !important;
+  color: #495057 !important;
+ }
